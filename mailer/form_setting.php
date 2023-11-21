@@ -1,8 +1,8 @@
 <?php
 	/*Form settings*/
-	$subj = "New message from the site 'Cvio - Resume/CV Template'"; //letter subject
-	$to = 'beshleyua@hotmail.com'; // Enter Your E-mail
-	$from = 'admin@you-site-name.com'; // Admin e-mail
-	$fromName = 'Your Company Name'; // Your company name
+	$subj = "New message from the site 'Kutay Yalçıner'"; //letter subject
+	$to = 'kutayyalciner@hotmail.com'; // Enter Your E-mail
+	$from = 'admin@portfolio.com'; // Admin e-mail
+	$fromName = 'Antidote'; // Your company name
 	$charset = 'UTF-8';
 ?>
