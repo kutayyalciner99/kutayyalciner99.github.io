@@ -1,1 +1,0 @@
-# kutayyalciner99.github.io
